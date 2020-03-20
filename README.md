@@ -1,6 +1,7 @@
 Open Weather Map API
 
 
+
 I created a visualization from the weather data, of 500+ cities across the world of varying distance from the equator. Utilizing the data from the API from Open Weather Map, i built scatter plots representing the information.
 
 
